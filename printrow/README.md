@@ -1,2 +1,2 @@
-#bash-snippets/printrow
+# bash-snippets/printrow
 
